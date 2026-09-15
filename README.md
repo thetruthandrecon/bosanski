@@ -2,7 +2,7 @@
 
 This is the free interactive companion to the paperback **Bosanski: A Workbook for Learners – From A1 to A2 in Ten Units**.
 
-**Open it here:** *(your GitHub Pages link will appear once Pages is enabled)*
+**Open it here:** https://thetruthandrecon.github.io/bosanski/
 
 ## What you get
 - All ten units, the placement test, the final A2 test, the reference appendix and the glossary
